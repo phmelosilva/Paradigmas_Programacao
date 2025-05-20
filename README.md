@@ -5,45 +5,45 @@ Repositório voltado para exercícios, ensinamentos e aprendizados realizados du
 ## Conteúdo
 
 1. Fundamentos
-    1. [Introdução](Fundamentos/introducao/introducao.pdf)
-    1. [Lógica Proposicional Booleana](Fundamentos/logica_booleana/logica_booleana.pdf)
-    1. [Teoria dos Conjuntos](Fundamentos/teoria_dos_conjuntos/teoria_dos_conjuntos.pdf)
-    1. [Funções](Fundamentos/funcoes/funcoes.pdf)
+    1. [Introdução]
+    1. [Lógica Proposicional Booleana]
+    1. [Teoria dos Conjuntos]
+    1. [Funções]
 1. Máquinas de Turing
-    1. [Enumerabilidade](Maquinas_de_Turing/slides/enumerabilidade/enumerabilidade.pdf)
-    1. [Máquinas de Turing](Maquinas_de_Turing/slides/maquinas_de_turing/maquinas_de_turing.pdf)
-    1. [Computabilidade](Maquinas_de_Turing/slides/computabilidade/computabilidade.pdf)
-    1. [Ábacos](Maquinas_de_Turing/slides/abacos/abacos.pdf)
+    1. [Enumerabilidade]
+    1. [Máquinas de Turing]
+    1. [Computabilidade]
+    1. [Ábacos]
 1. Programação Imperativa
-    1. [Assembly](Programacao_Imperativa/slides/assembly/assembly.pdf)
-    1. [Conceitos Elementares](Programacao_Imperativa/slides/conceitos_elementares/conceitos_elementares.pdf)
-    1. [Condicionais](Programacao_Imperativa/slides/condicionais/condicionais.pdf)
+    1. [Assembly]
+    1. [Conceitos Elementares]
+    1. [Condicionais]
 1. Programação Estruturada
-    1. [Conceitos Elementares](Programacao_Estruturada/slides/conceitos_elementares/conceitos_elementares.pdf)
-    1. [Estruturas e Funções](Programacao_Estruturada/slides/estruturas_e_funcoes/estruturas_e_funcoes.pdf)
+    1. [Conceitos Elementares]
+    1. [Estruturas e Funções]
 1. Programação Orientada a Objetos
-    1. [Fundamentos](Orientacao_a_Objetos/slides/small_talk/small_talk.pdf)
-    1. [Blocos e Exceções](Orientacao_a_Objetos/slides/blocos_e_excecoes/blocos_e_excecoes.pdf)
+    1. [Fundamentos]
+    1. [Blocos e Exceções]
 1. Combinadores
-    1. [Introdução](Combinadores/introducao/introducao.pdf)
+    1. [Introdução]
 1. Cálculo Lambda
-    1. [Definição](Lambda_Calculus/slides/definicao/definicao.pdf)
-    1. [Lógica Booleana](Lambda_Calculus/slides/logica_booleana/logica_booleana.pdf)
-    1. [Aritmética](Lambda_Calculus/slides/aritmetica/aritmetica.pdf)
-    1. [Recursão](Lambda_Calculus/slides/recursao/recursao.pdf)
+    1. [Definição]
+    1. [Lógica Booleana]
+    1. [Aritmética]
+    1. [Recursão]
 1. Programação Funcional
-    1. [Fundamentos](Programacao_Funcional/slides/fundamentos/fundamentos.pdf)
-    1. [Funções e Tipos de Dados de Usuário](Programacao_Funcional/slides/funcoes/funcoes.pdf)
-    1. [Funções de Alta Ordem](Programacao_Funcional/slides/alta_ordem/alta_ordem.pdf)
-    1. [Entrada e Saída](Programacao_Funcional/slides/io/io.pdf)
+    1. [Fundamentos]
+    1. [Funções e Tipos de Dados de Usuário]
+    1. [Funções de Alta Ordem]
+    1. [Entrada e Saída]
 1. Paradigma Lógico
-    1. [Fundamentos](Paradigma_Logico/fundamentos/fundamentos.pdf)
-    1. [Regras, arimética e estruturas de dados](Paradigma_Logico/regras/regras.pdf)
-    1. [Unificação e listas](Paradigma_Logico/unificacao/unificacao.pdf)
+    1. [Fundamentos]
+    1. [Regras, arimética e estruturas de dados]
+    1. [Unificação e listas]
 1. Programação Vetorial
-    1. [Introdução](Programacao_Vetorial/slides/introducao/introducao.pdf)
-    1. [Tipos primitivos e funções](Programacao_Vetorial/slides/tipos_primitivos_e_funcoes/tipos_primitivos_e_funcoes.pdf)
-    1. [_Rank_, ordenação e redução](Programacao_Vetorial/slides/rank_ordenacao_reducao/rank_ordenacao_reducao.pdf)
+    1. [Introdução]
+    1. [Tipos primitivos e funções]
+    1. [_Rank_, ordenação e redução]
 
 
 ## Exercícios:
