@@ -1,2 +1,2 @@
-main = print hello where 
-    hello = "Ola Mundo"
+main = hello where 
+    hello = putStrLn "Ola Mundo"
