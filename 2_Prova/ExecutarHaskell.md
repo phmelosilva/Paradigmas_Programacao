@@ -2,23 +2,17 @@
 
 ## 🧪 Executando com GHCi (interpretador Haskell)
 
-### ✅ 1. Abra o terminal e inicie o GHCi:
-
-### 1. Salve o seguinte código em um arquivo como `Hello.hs`:
+### ✅ 1. Salve o seguinte código em um arquivo como `Hello.hs`:
 
 ```haskell
 main = putStrLn "Olá Mundo"
 ```
-
----
 
 ### 2. No terminal, abra o GHCi com o arquivo:
 
 ```bash
 ghci Hello.hs
 ```
-
----
 
 ### 3. Execute a função `main` dentro do GHCi:
 
@@ -31,7 +25,6 @@ main
 ```
 Olá Mundo
 ```
-
 
 ## ⚙️ Como compilar e executar - com exemplo
 
@@ -69,9 +62,8 @@ ghc Soma.hs
 Soma.exe
 ```
 
----
-
 ### ✅ Saída esperada:
 
 ```
 8
+```
