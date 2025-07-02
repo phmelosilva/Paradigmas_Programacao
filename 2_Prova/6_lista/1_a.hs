@@ -1,2 +1,2 @@
 second [] = Nothing
-second (x:xs) = 
+second (x:y:xs) = Just y 
