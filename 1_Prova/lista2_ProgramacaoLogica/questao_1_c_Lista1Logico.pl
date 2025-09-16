@@ -9,6 +9,7 @@ time('Torcida Pão de Alho', 1, 'mg').
 
 campeao(X) :- time(X, 1, _).
 
-% PRECISO MODIFICAR
 selecionado(X) :- campeao(X).
-selecionado(X) :- time(X, _, 'mg').
+selecionado(X) :- 
+    time(X, _, 'mg'), 
+    \+ campeao(X).
