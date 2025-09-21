@@ -1,3 +1,2 @@
 distance(S, T, I, V, A) :-
-    V is (S-I)/T,
-    A is V/T.
+    S is I+V*(T)+(A*T*T)/2.
