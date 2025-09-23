@@ -1,5 +1,5 @@
 % ?- divisors(X, 12).
-% X = 6. (incluí o próprio 12)
+% X = 6. (incluí o próprio 12 e o 1, são eles: 1, 2, 3, 4, 6, 12)
 
 divisors(X, N) :-
     d(N, 1, 0, X).
