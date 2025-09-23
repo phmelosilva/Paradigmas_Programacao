@@ -19,3 +19,7 @@ parent(george1, sophia).
 mother(X, Y) :-
     female(Y),
     parent(X, Y).
+
+son(X, Y) :-
+    male(X),
+    parent(Y, X).

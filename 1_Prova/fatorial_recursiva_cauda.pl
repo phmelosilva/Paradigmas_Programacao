@@ -7,7 +7,6 @@ fact_tr(F, N, Acc) :-
 
 fact(F, N) :- fact_tr(F, N, 1).
 
-
 % Implementação recursiva de cauda
 factTR(F, 0, Acc) :- F is Acc.
 factTR(F, N, Acc) :-
